@@ -1,27 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CshapDungeon_ver2_branch", "CshapDungeon\CshapDungeon_ver2_branch.csproj", "{EE25A799-912F-4D10-BF2C-17C53BAC86B9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CshapDungeon_ver2", "CshapDungeon_ver2\CshapDungeon_ver2.csproj", "{BEDBC5E1-A269-4902-8174-02B84541C0A2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsahpDungeon_ver1", "CsahpDungeon_ver2_branch\CsahpDungeon_ver1.csproj", "{71759F48-1C92-40A8-8135-A524DE30D977}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShapDungeon_ver3", "CShapDungeon_ver3\CShapDungeon_ver3.csproj", "{CC3401CD-389F-4ACA-B8DE-019F986B7DE4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CshapDungeon_ver3_branch", "CshapDungeon_ver3_branch\CshapDungeon_ver3_branch.csproj", "{8F429F3D-D168-4C47-9253-6C8F93287BF8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CshapDungeon_ver4", "CshapDungeon_ver4\CshapDungeon_ver4.csproj", "{F6209B20-FB07-466F-A5A5-2E731D441D46}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CshapDungeon_ver4_branch", "CshapDungeon_ver4_branch\CshapDungeon_ver4_branch.csproj", "{C8EA1D12-3530-4BAD-A760-AD05B6A22407}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CshapDungeon_ver5", "CshapDungeon_ver5\CshapDungeon_ver5.csproj", "{BFC1B31D-7F2E-4F32-89D4-2FB6556DE63E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CshapDungeon_ver6", "CshapDungeon_ver6\CshapDungeon_ver6.csproj", "{42752231-A95A-4515-8FE2-245274E5C745}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShapDungeon_ver5_branch", "CShapDungeon_ver5_branch\CShapDungeon_ver5_branch.csproj", "{B1E3366A-25A2-4DF4-83A2-F01F138729B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CshapDungeon_ver6", "CshapDungeon_ver6\CshapDungeon_ver6.csproj", "{42752231-A95A-4515-8FE2-245274E5C745}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,46 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE25A799-912F-4D10-BF2C-17C53BAC86B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE25A799-912F-4D10-BF2C-17C53BAC86B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE25A799-912F-4D10-BF2C-17C53BAC86B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE25A799-912F-4D10-BF2C-17C53BAC86B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BEDBC5E1-A269-4902-8174-02B84541C0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BEDBC5E1-A269-4902-8174-02B84541C0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BEDBC5E1-A269-4902-8174-02B84541C0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BEDBC5E1-A269-4902-8174-02B84541C0A2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{71759F48-1C92-40A8-8135-A524DE30D977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71759F48-1C92-40A8-8135-A524DE30D977}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71759F48-1C92-40A8-8135-A524DE30D977}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71759F48-1C92-40A8-8135-A524DE30D977}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CC3401CD-389F-4ACA-B8DE-019F986B7DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC3401CD-389F-4ACA-B8DE-019F986B7DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC3401CD-389F-4ACA-B8DE-019F986B7DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC3401CD-389F-4ACA-B8DE-019F986B7DE4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8F429F3D-D168-4C47-9253-6C8F93287BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F429F3D-D168-4C47-9253-6C8F93287BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F429F3D-D168-4C47-9253-6C8F93287BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F429F3D-D168-4C47-9253-6C8F93287BF8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F6209B20-FB07-466F-A5A5-2E731D441D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6209B20-FB07-466F-A5A5-2E731D441D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6209B20-FB07-466F-A5A5-2E731D441D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6209B20-FB07-466F-A5A5-2E731D441D46}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C8EA1D12-3530-4BAD-A760-AD05B6A22407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8EA1D12-3530-4BAD-A760-AD05B6A22407}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8EA1D12-3530-4BAD-A760-AD05B6A22407}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8EA1D12-3530-4BAD-A760-AD05B6A22407}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BFC1B31D-7F2E-4F32-89D4-2FB6556DE63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BFC1B31D-7F2E-4F32-89D4-2FB6556DE63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BFC1B31D-7F2E-4F32-89D4-2FB6556DE63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BFC1B31D-7F2E-4F32-89D4-2FB6556DE63E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{42752231-A95A-4515-8FE2-245274E5C745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{42752231-A95A-4515-8FE2-245274E5C745}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42752231-A95A-4515-8FE2-245274E5C745}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42752231-A95A-4515-8FE2-245274E5C745}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B1E3366A-25A2-4DF4-83A2-F01F138729B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B1E3366A-25A2-4DF4-83A2-F01F138729B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B1E3366A-25A2-4DF4-83A2-F01F138729B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B1E3366A-25A2-4DF4-83A2-F01F138729B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
