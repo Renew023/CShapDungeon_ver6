@@ -57,7 +57,6 @@ namespace CshapDungeon_ver6
             while (true)
             {
                 Console.WriteLine("원하시는 행동을 선택해주세요.");
-                Console.Write(">> ");
 
                 int num = TextInput();
 

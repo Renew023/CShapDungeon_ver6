@@ -56,7 +56,6 @@ namespace CshapDungeon_ver6
             // 값이 잘못될 경우 반복
             while (true)
             {
-                Console.Write(">> ");
                 int check = TextInput();
 
                 switch ((RestState)check)

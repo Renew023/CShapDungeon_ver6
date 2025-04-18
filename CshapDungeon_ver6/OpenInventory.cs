@@ -86,7 +86,6 @@ namespace CshapDungeon_ver6
 
             while (true)
             {
-                Console.Write(">> ");
                 int check = TextInput();
                 place = PlaceType.Inventory;
 

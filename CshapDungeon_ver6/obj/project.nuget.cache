@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cScAUKgEQOo=",
+  "dgSpecHash": "SgmJTMkWAqvQ2oRci74DXRqe3FGaqWVC+1ZG9FL7RmaX61tyZzG8aiioP87bliAbVRLVxsDILgmj9i3TzmJvIg==",
   "success": true,
-  "projectFilePath": "F:\\SpartaCshap\\CshapDungeon\\CshapDungeon_ver6\\CshapDungeon_ver6.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\win\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\win\\Downloads\\CShapDungeon_ver6-main\\CShapDungeon_ver6-main\\CshapDungeon_ver6\\CshapDungeon_ver6.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
